@@ -32,9 +32,10 @@ div{
     border-radius: 5px;
     padding:10px;
     margin:15px;
+    text-align: justify;
 }
 div h2{
-    background-color:rgb(165, 22, 141);
+    background-color:rgb(167, 6, 140);
     padding:10px;
     border-radius: 5px;
 }
